@@ -26,9 +26,45 @@
 }
 
 .nav-bar a {
-    font-size: 18px;
+    font-size: 20px;
     margin-left: 40px;
     color: black;
     font-weight: bold;
     text-decoration: none;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 40px 0px;
+    background: #2c3131;
+}
+
+.container {
+    width: 100%;
+    padding: 70px 20px 30px;
+}
+
+.footer-element ul{
+    justify-content: center;
+    display: flex;
+}
+
+.footer-element ul li {
+    list-style: none;
+}
+
+.footer-element ul li a{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    opacity: 80%;
+}
+
+.footer-logo {
+    font-size: 28px;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
 }

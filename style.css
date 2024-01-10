@@ -37,8 +37,8 @@ nav a {
 }
 
 footer {
-    background-color: #d9f7e6;
-    color: black;
+    background-color: rgb(41, 38, 38);
+    color: white;
     text-align: center;
     padding: 10px;
     position: fixed;

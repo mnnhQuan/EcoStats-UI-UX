@@ -26,6 +26,7 @@
 }
 
 .nav-bar a {
+    position: sticky;
     font-size: 20px;
     margin-left: 40px;
     color: black;
@@ -46,7 +47,7 @@
     padding: 70px 20px 30px;
 }
 
-.footer-element ul{
+.content-wrap ul{
     justify-content: center;
     display: flex;
 }

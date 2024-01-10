@@ -1,12 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .header {
     position: fixed;
     top: 0;
     left: 0;
-    width:100%;
+    width: 100%;
     padding: 20px 100px;
-    background: #81f1c6;
+    background: #d9f7e6;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
     z-index: 100;
 }
@@ -20,6 +27,7 @@
 
 .nav-bar a {
     font-size: 18px;
+    margin-left: 40px;
     color: black;
     font-weight: bold;
     text-decoration: none;

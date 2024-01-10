@@ -21,13 +21,6 @@
 .nav-bar a {
     font-size: 18px;
     color: black;
-    margin-left: 30px;
     font-weight: bold;
     text-decoration: none;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
 }

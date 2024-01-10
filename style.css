@@ -52,11 +52,11 @@
     display: flex;
 }
 
-.footer-element ul li {
+.content-wrap ul li {
     list-style: none;
 }
 
-.footer-element ul li a{
+.content-wrap ul li a{
     color: white;
     margin-left: 20px;
     text-decoration: none;

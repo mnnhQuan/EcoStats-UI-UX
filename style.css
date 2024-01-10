@@ -31,20 +31,3 @@ body {
     margin: 0;
     padding: 0;
 }
-
-.main-content, .subpage-content {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-}
-
-footer {
-    background-color: rgb(41, 38, 38);
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}

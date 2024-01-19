@@ -21,6 +21,8 @@ body {
 }
 
 .header {
+  width: 100%;
+  position: fixed;
   background-color: #d9f7e6;
   font-weight: 500;
 }
